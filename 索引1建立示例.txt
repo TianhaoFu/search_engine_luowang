@@ -1,0 +1,22 @@
+{
+    "mappings": {
+            "properties": {
+                "Num": {
+                    "type": "keyword"
+                },
+                "Journal_Name": {
+                    "type": "text"
+                },
+                "Song_Name": {
+                    "type": "text"
+                },
+                "Singer": {
+                    "type": "text"
+                },
+                "Album_Name": {
+                    "type": "text"
+                
+            }
+        }
+    }
+}
