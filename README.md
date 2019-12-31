@@ -4,7 +4,7 @@
 主要通过ES及python 完成程序的编写
 
 ## 1.语言
-python java jdk
+python java
 
 ## 2.python版本
 python38
