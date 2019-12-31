@@ -11,9 +11,13 @@ python38
 
 ## 3.依赖库
 <1>. bs4  
+
 <2>.requests
+
 <3>.lxml
+
 <4>.re
+
 <5>.elasticsearch
 ## 4. 运行前期准备
 <1>.下载所需库
