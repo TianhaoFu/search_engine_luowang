@@ -37,26 +37,26 @@ python38
 
 ### <2>.可视化es-head插件
 
-#### 运行node-v12.13.0-x64.exe安装node.js
+运行node-v12.13.0-x64.exe安装node.js
 
-#### 用命令npm install -g grunt-cli安装grunt到node.js的目录下
+用命令npm install -g grunt-cli安装grunt到node.js的目录下
 
-#### 在elasticsearch-head-master目录下使用命令grunt server
+在elasticsearch-head-master目录下使用命令grunt server
 
-#### 通过浏览器地址栏输入http://localhost:9100/查看
+通过浏览器地址栏输入http://localhost:9100/查看
 
 ### <3>打开搜索引擎
 
-#### 在名为web的文件夹的目录下
+在名为web的文件夹的目录下
 
 python -m http.server
 
-#### 得到域名
+得到域名
 
 Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 
-#### 根据地址打开搜索引擎http://localhost:8000/
+根据地址打开搜索引擎http://localhost:8000/
 
 （使用的是python3.7自带的本地web服务器）
 
-#### 现在你可以尽情使用这个搜索引擎了
+# 现在你可以尽情使用这个搜索引擎了
