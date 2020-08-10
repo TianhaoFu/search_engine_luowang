@@ -4,10 +4,10 @@
 主要通过 python 及 ElasticSearch 完成程序的编写及搜索引擎的建立。
 
 ## 1.语言
-python java
+python, java
 
 ## 2.python版本
-python38
+python3.8
 
 ## 3.依赖库
 <1>. bs4  
