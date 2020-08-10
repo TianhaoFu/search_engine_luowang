@@ -1,7 +1,7 @@
 # search_engine_luowang
 一款针对音乐网站落网的简单垂直领域搜索引擎
 
-主要通过ES及python 完成程序的编写
+主要通过 python 及 ElasticSearch 完成程序的编写及搜索引擎的建立。
 
 ## 1.语言
 python java
